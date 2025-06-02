@@ -3,7 +3,7 @@
 A modern twist on the classic **Simon Says** game — test your memory, beat your high score, and enjoy smooth animations, music, and cursor effects!
 
 🔗 **Play it now:**  
-👉 (https://your-username.github.io/simon-game)](https://deena454.github.io/Simon-says-Game/)
+👉 https://deena454.github.io/Simon-says-Game/
 
 
 ## 🚀 How to Play
