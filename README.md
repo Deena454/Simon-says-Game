@@ -22,7 +22,4 @@ A modern twist on the classic **Simon Says** game — test your memory, beat you
 - ⚡ Responsive design — works on desktop & mobile
 - 💥 Smooth animations and color flashes
 
----
-
-## 📁 Project Structure
 
